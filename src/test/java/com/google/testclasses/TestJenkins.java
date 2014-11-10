@@ -7,7 +7,7 @@ public class TestJenkins {
 	
 	@Test
 	public void test() throws Exception{
-		System.out.println("Jenkins Test");
+		System.out.println("Jenkins Test..........");
 	}
 
 }
